@@ -1,0 +1,17 @@
+.Counter{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.Counter h1{
+  text-align: center;
+  font-size: 50px;
+}
+.counter button{
+ margin-right: 16px;
+}
+h1{
+  text-align: center;
+  font-weight: bolder;
+}
